@@ -253,3 +253,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-Pattna
 <p align="center">
 <img src="https://img.shields.io/badge/Thanks_For_Visiting-8B5CF6?style=for-the-badge"/>
 </p>
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Disha-Pattnaik/Disha-Pattnaik/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
